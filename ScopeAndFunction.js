@@ -6,7 +6,7 @@ function testScope() {
   }
 
   console.log(oldVar);  // Output: I am a var
-   console.log(newLet);  // Error: newLet is not defined
+  // console.log(newLet);  // Error: newLet is not defined
   // console.log(constant); // Error: constant is not defined
 }
 
